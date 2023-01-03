@@ -52,3 +52,5 @@ $ docker ps
 
 [p3x redis ui](https://github.com/patrikx3/redis-ui)를 사용해 접속 테스트했습니다.
 ![image](https://user-images.githubusercontent.com/60294629/210198839-0bda4cab-ac0e-4073-9b78-48decd2a54b9.png)
+
+> 💡 더 자세한 설명을 원하시면 [Docker+Redis 삽질기](https://velog.io/@gingaminga/Docker-%EC%82%BD%EC%A7%88%EA%B8%B0-Docker%EB%A1%9C-Redis-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)에서 확인해주세요 :)
